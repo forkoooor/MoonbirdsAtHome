@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "55b386fbabaf3a9a48d2",
-    "url": "/MoonbirdsAtHome/static/css/main.c9b6caa5.chunk.css"
+    "revision": "260a8276055b157092cc",
+    "url": "/MoonbirdsAtHome/static/css/main.3a9f01ea.chunk.css"
   },
   {
-    "revision": "55b386fbabaf3a9a48d2",
-    "url": "/MoonbirdsAtHome/static/js/main.55b386fb.chunk.js"
+    "revision": "260a8276055b157092cc",
+    "url": "/MoonbirdsAtHome/static/js/main.260a8276.chunk.js"
   },
   {
-    "revision": "da6c6d3cbdf5c0d57ea3",
-    "url": "/MoonbirdsAtHome/static/css/1.ec66cbef.chunk.css"
+    "revision": "7319ac7bcf7ddc00a1a2",
+    "url": "/MoonbirdsAtHome/static/css/1.5f8ecbf5.chunk.css"
   },
   {
-    "revision": "da6c6d3cbdf5c0d57ea3",
-    "url": "/MoonbirdsAtHome/static/js/1.da6c6d3c.chunk.js"
+    "revision": "7319ac7bcf7ddc00a1a2",
+    "url": "/MoonbirdsAtHome/static/js/1.7319ac7b.chunk.js"
   },
   {
     "revision": "1e650d18fdbb1dabc970",
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/MoonbirdsAtHome/static/media/logos.f0aee214.woff"
   },
   {
-    "revision": "a5df000638dad144a55bdafac214f932",
+    "revision": "f8f4b9b7cee3cfd1f5da1eb1ea803c42",
     "url": "/MoonbirdsAtHome/index.html"
   }
 ];
