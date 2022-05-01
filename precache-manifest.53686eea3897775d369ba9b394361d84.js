@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "16b46302f5350b22e15b",
+    "revision": "a9107a38060eca319059",
     "url": "/MoonbirdsAtHome/static/css/main.81d167c4.chunk.css"
   },
   {
-    "revision": "16b46302f5350b22e15b",
-    "url": "/MoonbirdsAtHome/static/js/main.16b46302.chunk.js"
+    "revision": "a9107a38060eca319059",
+    "url": "/MoonbirdsAtHome/static/js/main.a9107a38.chunk.js"
   },
   {
     "revision": "d47f4b77dfe1ca6475d0",
@@ -32,7 +32,7 @@ self.__precacheManifest = [
     "url": "/MoonbirdsAtHome/static/media/logos.f0aee214.woff"
   },
   {
-    "revision": "9ef66fcc5ad6127be8af186f02dacf00",
+    "revision": "944e95cbbec07ba960df70a6e163a04a",
     "url": "/MoonbirdsAtHome/index.html"
   }
 ];
