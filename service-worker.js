@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/moonbirdsathome/precache-manifest.d9303c8775f3aef0872d6647a8e46ba5.js"
+  "/MoonbirdsAtHome/precache-manifest.9c7b03aae0b52d885584b42cbc777726.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/moonbirdsathome/index.html", {
+workbox.routing.registerNavigationRoute("/MoonbirdsAtHome/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
