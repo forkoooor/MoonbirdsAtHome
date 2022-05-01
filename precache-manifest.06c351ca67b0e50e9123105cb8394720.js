@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "a68d990e3c48417c7037",
-    "url": "/MoonbirdsAtHome/static/css/main.5bf4da44.chunk.css"
+    "revision": "8f104bcc4bb0ebe026e5",
+    "url": "/MoonbirdsAtHome/static/css/main.81d167c4.chunk.css"
   },
   {
-    "revision": "a68d990e3c48417c7037",
-    "url": "/MoonbirdsAtHome/static/js/main.a68d990e.chunk.js"
+    "revision": "8f104bcc4bb0ebe026e5",
+    "url": "/MoonbirdsAtHome/static/js/main.8f104bcc.chunk.js"
   },
   {
-    "revision": "28ed51d82019975361e8",
-    "url": "/MoonbirdsAtHome/static/css/1.d1c81ee0.chunk.css"
+    "revision": "d47f4b77dfe1ca6475d0",
+    "url": "/MoonbirdsAtHome/static/css/1.00dc6790.chunk.css"
   },
   {
-    "revision": "28ed51d82019975361e8",
-    "url": "/MoonbirdsAtHome/static/js/1.28ed51d8.chunk.js"
+    "revision": "d47f4b77dfe1ca6475d0",
+    "url": "/MoonbirdsAtHome/static/js/1.d47f4b77.chunk.js"
   },
   {
     "revision": "1e650d18fdbb1dabc970",
@@ -32,7 +32,7 @@ self.__precacheManifest = [
     "url": "/MoonbirdsAtHome/static/media/logos.f0aee214.woff"
   },
   {
-    "revision": "8399797fdfdd07b2b5650e8fd019816f",
+    "revision": "d2ef9d49070e6f453de9d2f5d5a89290",
     "url": "/MoonbirdsAtHome/index.html"
   }
 ];
