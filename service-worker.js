@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/MoonbirdsAtHome/precache-manifest.9fe04cf674fae47ac0139297a2d53876.js"
+  "/MoonbirdsAtHome/precache-manifest.b0f7b2d2d524e84a288d07dd77f0eec2.js"
 );
 
 workbox.clientsClaim();
