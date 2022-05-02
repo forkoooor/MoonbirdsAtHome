@@ -1,7 +1,7 @@
 {
   "main.css": "/MoonbirdsAtHome/static/css/main.5fd4063d.chunk.css",
-  "main.js": "/MoonbirdsAtHome/static/js/main.892152bf.chunk.js",
-  "main.js.map": "/MoonbirdsAtHome/static/js/main.892152bf.chunk.js.map",
+  "main.js": "/MoonbirdsAtHome/static/js/main.16054c61.chunk.js",
+  "main.js.map": "/MoonbirdsAtHome/static/js/main.16054c61.chunk.js.map",
   "static/css/1.7daf2273.chunk.css": "/MoonbirdsAtHome/static/css/1.7daf2273.chunk.css",
   "static/js/1.94d0c3ab.chunk.js": "/MoonbirdsAtHome/static/js/1.94d0c3ab.chunk.js",
   "static/js/1.94d0c3ab.chunk.js.map": "/MoonbirdsAtHome/static/js/1.94d0c3ab.chunk.js.map",
@@ -10,9 +10,9 @@
   "static/media/the_bet.png": "/MoonbirdsAtHome/static/media/the_bet.1be9ee01.png",
   "static/media/banner.png": "/MoonbirdsAtHome/static/media/banner.6c015b53.png",
   "static/media/navbar.css": "/MoonbirdsAtHome/static/media/logos.f0aee214.woff",
-  "static/css/main.5fd4063d.chunk.css.map": "/MoonbirdsAtHome/static/css/main.5fd4063d.chunk.css.map",
   "static/css/1.7daf2273.chunk.css.map": "/MoonbirdsAtHome/static/css/1.7daf2273.chunk.css.map",
+  "static/css/main.5fd4063d.chunk.css.map": "/MoonbirdsAtHome/static/css/main.5fd4063d.chunk.css.map",
   "index.html": "/MoonbirdsAtHome/index.html",
-  "precache-manifest.97735ad0826cf8fa763275b0f0601c81.js": "/MoonbirdsAtHome/precache-manifest.97735ad0826cf8fa763275b0f0601c81.js",
+  "precache-manifest.f0c3d67e23f2c1f507b353320f1c68f6.js": "/MoonbirdsAtHome/precache-manifest.f0c3d67e23f2c1f507b353320f1c68f6.js",
   "service-worker.js": "/MoonbirdsAtHome/service-worker.js"
 }
